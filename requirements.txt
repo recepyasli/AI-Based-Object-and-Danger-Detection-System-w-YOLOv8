@@ -1,0 +1,7 @@
+FreeSimpleGUI==5.2.0.post1
+opencv-python==4.11.0.86
+pillow==11.2.1
+pygame==2.6.1
+pygrabber==0.2
+sympy==1.14.0
+ultralytics==8.3.155
